@@ -6,8 +6,8 @@ This is a repository for short python scripts that will includes code that can b
 Table of Contents: 
 
 For Loops:
-fellowsloop.py
-colorsloop.py
+<br>fellowsloop.py
+<br>colorsloop.py
 
 If statements: 
-volunteers.py
+<br>volunteers.py
