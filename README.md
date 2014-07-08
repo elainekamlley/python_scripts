@@ -9,5 +9,14 @@ For Loops:
 <br>fellowsloop.py
 <br>colorsloop.py
 
+While Loops:
+<br>chips_eating.py
+
 If statements: 
 <br>volunteers.py
+
+Functions:
+<br>function_examples.py
+<br>name_function.py
+<br>rally.py
+<br>sum_of_three.py
